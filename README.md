@@ -1,4 +1,4 @@
-# -HR-Attrition-Insights-Dashboard
+# HR Attrition Insights Dashboard
 📊 Project Overview
 
 This Power BI project visualizes and analyzes employee attrition using historical HR data. The objective is to help HR departments identify high-churn departments, evaluate resignation drivers, and generate data-backed strategies to improve employee retention.
