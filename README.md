@@ -54,4 +54,4 @@ Target early-tenure employees with onboarding and engagement programs
 This project is licensed under the MIT License.
 
 ✅ Author
-Satvik PatilFeel free to connect or fork the project and contribute!
+Satvik Patil Feel free to connect or fork the project and contribute!
